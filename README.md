@@ -9,3 +9,5 @@ Fijo de las ventanas después de la explosión: https://gamemodding.com/es/gta-v
 Mapa en el menú: https://www.mixmods.com.br/2022/04/iii-vc-menu-map-radar/
 
 Project 2DFX: https://www.mixmods.com.br/2016/08/vc-project2dfx-v4-4/
+
+Ped Speech Patch: https://www.mixmods.com.br/2016/09/vc-ped-speech-patch-pedestres-e-tommy-falando-mais/
